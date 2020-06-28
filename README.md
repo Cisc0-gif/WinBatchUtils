@@ -1,6 +1,6 @@
 # Windows Batch Utility Scripts
 
-A collection ofbatch scripts I've written over the years to help automate Administrative processes, setup AV software, and some other interesting programs for access control, etc.
+A collection of batch scripts I've written over the years to help automate Administrative processes, setup AV software, and some other interesting programs for access control, etc.
 
 ## Features
 
